@@ -6,7 +6,7 @@
 [COMP323 / 데이터통신 / 2020 / 1학기 / 조유제](https://github.com/yundj4408/2020_1_Data_Communication)    
 [COMP312 / 운영체제 / 2020 / 1학기 / 강순주](https://github.com/yundj4408/2020_1_Operating_System)   
 [COMP319 / 알고리즘 / 2020 / 2학기 / 장길진](https://github.com/yundj4408/2020_2_Algorithm)   
-[COMP422 / 소프트웨어공학 / 2020 / 1학기 / 권영우](https://github.com/yundj4408/2020_1_Software_Engineering)  
+[COMP422 / 소프트웨어공학 / 2020 / 1학기 / 권영우](https://github.com/yundj4408/Heros)  
 
 
 ## 자율 과제형  
