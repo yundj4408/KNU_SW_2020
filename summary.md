@@ -26,7 +26,7 @@
 
 ## 경진대회형
 
-### [2020_Code Fair - 화재 대피 시스템 구현](https://github.com/yundj4408/KNU-Codefair)
+### [2020_Code Fair - 화재 대피 시스템 구현](https://github.com/yundj4408/2020_CodeFair)
 - 경진대회 일시/장소: 2020.11.27 / 경북대학교 IT 융복합관 345호
 - 주최기관명: SW 교육센터, PRIME 사업단, 해달(IT대학 학술동아리)
 - 수상내역: 최우수상
